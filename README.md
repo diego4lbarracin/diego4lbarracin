@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Diego and I'm a third year Systems Engineering (direct translation from Spanish but it is like Computer Science) student @ Pontificia Universidad Javeriana. I was born and raised in EYP, CAS in CO, but I moved to BOG, CO almost 3 years ago.</p>
+<p align="left">My name is Diego and I'm a third year Systems Engineering (direct translation from Spanish but it is like Computer Science) student @ Pontificia Universidad Javeriana. I was born and raised in EYP, CAS, CO, but I moved to BOG, CO almost 3 years ago.</p>
 
 ###
 
