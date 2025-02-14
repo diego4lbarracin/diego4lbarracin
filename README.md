@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning more about cloud concepts, financial derivatives and other finance concepts.<br>🎯 Goals: Graduate as an engineer in 2026 by the age of 21. Become an entrepreneur in the near future. <br>🎲 Fun fact: I wanted to double major engineering with a finance degree. I listen to the Minecraft soundtrack when I need to focus.</p>
+<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning more about cloud concepts, financial derivatives and other finance concepts.<br>🎯 Goals: Get my engineering degree in 2026 by the age of 21. Enroll in an MBA at a top-tier university in the US. Become an entrepreneur in the near future. <br>🎲 Fun fact: I wanted to double major engineering with a finance degree. I listen to the Minecraft soundtrack when I need to focus. I can remember phone numbers, credit card numbers and other combinatios with certain level of ease.</p>
 
 ###
 
