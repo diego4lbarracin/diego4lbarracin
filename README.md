@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since April, 2005.<br>📚 I'm currently learning more about cloud concepts, financial derivatives and other complex financial concepts.<br>🎯 Goals: Get my engineering degree in 2026 by the age of 21. Enroll in a MBA at a top-tier university. Become an entrepreneur in the near future. Get a Porsche 911 Turbo S. Begin a family. <br>🎲 Fun fact: I'm looking forward to also pursue a degree in Finance. I listen to the Minecraft soundtrack when I need to focus. I can remember phone numbers, credit card numbers and other combinatios with certain level of ease. Watch enthusiast on a budget.</p>
+<p align="left">✨ Creating bugs since April, 2005.<br>📚 I'm currently learning more about cloud concepts, financial derivatives and other complex financial concepts.<br>🎯 Goals: Get my engineering degree in 2026 by the age of 21. Enroll in a MBA at a top-tier university. Become an entrepreneur in the near future. Get a Porsche 911 Turbo S. Begin a family. <br>🎲 Fun fact: I'm looking forward to also pursue a degree in Finance. I listen to the Minecraft soundtrack when I need to focus. I can remember phone numbers, credit card numbers and other combinatios with certain level of ease. There are more cows thans humans in the region of Colombia where I was born. Watch enthusiast on a budget.</p>
 
 ###
 
